@@ -12,3 +12,5 @@ The code will loop, as required, to achieve the outcome.
 At this stage, it's unclear what can be added, but that will become clear, in due time.
 
 Suggestions are welcome, if you feel that some could be made.
+
+Code is shared under the CC-BY 4.0, which is found here --> https://creativecommons.org/licenses/by/4.0/legalcode
